@@ -1,0 +1,26 @@
+id: ICE91D669
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 17:58:07.805818+00:00
+last_modified: 2022-12-14 17:58:07.805825+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-046-003
+  eft-text-version: 1.1.4 2021
+  title: Toh_97-The_Chapter_on_Manjusri%E2%80%99s_Magical_Display-v1
+bases:
+  E787:
+    source_metadata: null
+    order: 1
+    base_file: E787.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
